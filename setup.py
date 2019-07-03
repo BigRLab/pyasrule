@@ -8,7 +8,7 @@ setup(
   author = 'Norma Dani Risdiandita',                   # Type in your name
   author_email = 'norma.risdiandita@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/danirisdiandita/pyasrule',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/danirisdiandita/pyasrule/archive/master.zip',    # I explain this later on
   keywords = ['Association Rule', 'Collaborative Filtering', 'Multiple Evaluation Metrics'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
